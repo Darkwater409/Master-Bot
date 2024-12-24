@@ -241,7 +241,7 @@ Anyone is welcome to suggest new features and improve code quality!
 
 [ModoSN](https://github.com/ModoSN) - 'resolve-ip', 'rps', '8ball', 'bored', 'trump', 'advice', 'kanye', 'urban dictionary' commands and visual updates
 
-[PhantomNimbi](https://github.com/PhantomNimbi) - bring back gif commands, lavalink config tweaks
+[Joshua Lewis](https://github.com/Darkwater409) - bring back gif commands, lavalink config tweaks
 
 [Natemo6348](https://github.com/Natemo6348) - 'mute', 'unmute'
 
