@@ -243,7 +243,7 @@ Anyone is welcome to suggest new features and improve code quality!
 
 [Joshua Lewis](https://github.com/Darkwater409) - bring back gif commands, lavalink config tweaks
 
-[Natemo6348](https://github.com/Natemo6348) - 'mute', 'unmute'
+[Natemo2625](https://github.com/Natemo2625) - 'mute', 'unmute'
 
 [kfirmeg](https://github.com/kfirmeg) - play command flags, dockerization, docker wiki
 
